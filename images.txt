@@ -8,3 +8,4 @@ xhofe/alist:latest
 whyour/qinglong
 qdtoday/qd
 dreamacro/clash
+haishanh/yacd
