@@ -10,3 +10,4 @@ qdtoday/qd
 dreamacro/clash
 haishanh/yacd
 xiaoyaliu/alist
+jlesage/firefox
