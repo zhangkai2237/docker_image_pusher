@@ -11,3 +11,4 @@ dreamacro/clash
 haishanh/yacd
 xiaoyaliu/alist
 jlesage/firefox
+shinobisystems/shinobi
