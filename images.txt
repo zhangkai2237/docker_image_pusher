@@ -13,3 +13,4 @@ xiaoyaliu/alist
 jlesage/firefox
 shinobisystems/shinobi
 ionewu/owjdxb
+hectorqin/reader
